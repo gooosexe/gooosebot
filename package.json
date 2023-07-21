@@ -1,0 +1,22 @@
+{
+  "name": "gooosebot",
+  "version": "1.0.0",
+  "description": "a small bot for discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gooosexe/gooosebot.git"
+  },
+  "author": "gooose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gooosexe/gooosebot/issues"
+  },
+  "homepage": "https://github.com/gooosexe/gooosebot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
